@@ -1,0 +1,17 @@
+{
+  "display_name": "Visual Projection Translator",
+  "loading_order": 90,
+  "requires": [],
+  "optional": [],
+  "dependencies": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "ChatGPT",
+  "version": "1.0.0",
+  "homePage": "",
+  "auto_update": false,
+  "hooks": {
+    "activate": "init",
+    "disable": "onDisable"
+  }
+}
