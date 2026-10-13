@@ -1,0 +1,14 @@
+{
+  "display_name": "Visual Projection Translator",
+  "loading_order": 777,
+  "requires": [],
+  "optional": [],
+  "dependencies": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "atemeleseldrazi-dotcom",
+  "version": "1.2.0",
+  "homePage": "https://github.com/atemeleseldrazi-dotcom/VisualProjectionTranslator",
+  "auto_update": false,
+  "i18n": {}
+}
